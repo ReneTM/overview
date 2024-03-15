@@ -1,0 +1,8 @@
+Sprite
+{
+	$spriteorientation "vp_parallel_oriented"
+	$spriteorigin "[ 0.50 0.50 ]"
+	$basetexture "sprites/bg"
+	//$color "[1.0 1.0 1.0]"
+	//$color2 "[1.0 1.0 1.0]"
+}

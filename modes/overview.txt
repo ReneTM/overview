@@ -1,0 +1,19 @@
+"overview"
+{
+	"base"				"coop"
+	"maxplayers"		"4"
+	"hasdifficulty"		"0"
+
+	"DisplayTitle"		"Overview"
+	"ShortDescription"	"Helpfull mode to create level overviews"
+	"Description"		""
+
+	"Image"				"vgui/blog/x"
+	"Author"			"ReneTM"
+
+	convar
+	{
+		"survivor_limit" 4
+		"nb_update_frequency" 0.033
+	}
+}
